@@ -27,3 +27,5 @@ hack.
 cheat.
 admin.
 leak.
+gorilla tag kick mod
+gorilla tag zoloz
